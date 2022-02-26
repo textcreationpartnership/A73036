@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message, termed marke the truth of the worde of God, in these. xiii. bloes, at the Popes Bull And the same to be doone to the Popes Champian, that set vp his Bull, on the gate of the bishop of London. 1570.</title>
+            <author>Pius V, Pope, 1504-1572.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73036</idno>
+            <idno type="STC">STC 19974.2</idno>
+            <idno type="STC">ESTC S124827</idno>
+            <idno type="EEBO-CITATION">99900425</idno>
+            <idno type="PROQUEST">99900425</idno>
+            <idno type="VID">152104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152104)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2015:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message, termed marke the truth of the worde of God, in these. xiii. bloes, at the Popes Bull And the same to be doone to the Popes Champian, that set vp his Bull, on the gate of the bishop of London. 1570.</title>
+                  <author>Pius V, Pope, 1504-1572.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by William How: for Iohn Arenolde, and are there to be solde at the Northe doore of Paules Churche,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1570]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication, printer's name and bookseller's name from colophon.</note>
+                  <note>Signatures" A-B⁴.</note>
+                  <note>Reproduction of original in the Gonville and Caius College Library, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church. --  Pope (1566-1572 : Pius V) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152104:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 138 -->
+            <p>
+               <hi>A Meſsage, termed</hi> Marke the truth of the worde <hi>of God, in theſe .xiii. Bloes,</hi> at the Popes Bull.</p>
+            <p>And the ſame to be doone to the <hi>Popes Champian, that ſet vp</hi> his Bull, on the Gate <hi>of the Biſhop of</hi> London.</p>
+            <p>1570.</p>
+            <q>
+               <bibl>Actes. 17, chap. 11. &amp; 12. verſe.</bibl>
+               <p>Theſe were alſo more noble men,<note place="margin">Keepe this olde cu<g ref="char:EOLhyphen"/>ſtome co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>mended of the apoſtle vvhen ther<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is ſtrife in Religion.</note> then they whiche were at <hi>Theſſalonica,</hi> which receiued the word with all re<g ref="char:EOLhyphen"/>dineſſe, and ſerched the Scriptures daily, whether thoſe thinges were ſo <hi>(novv marke the cauſe wherefore Preachers and Writers ſhould be beleeued by theſe words that folow in the verſe)</hi> Therefore many of them beleeued and of honeſt women whiche were Grecyans, and men not a few.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152104:2"/>
+            <!-- PDF PAGE 139 -->
+            <pb facs="tcp:152104:2"/>
+            <!-- PDF PAGE 139 -->
+            <head>¶Marke the truth of the <hi>vvorde of God, in theſe</hi> xiij. Blowes, at the <hi>Popes Bull.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>RITE</hi> or ſpeake to him that ſet vp the Popes <hi>Bull</hi> on the gate of the Bi<g ref="char:EOLhyphen"/>ſhop of London, that he may requyre his mai<g ref="char:EOLhyphen"/>ſter y<hi rend="sup">e</hi> Pope,<note place="margin">E The firſt blovv at the Popes Bull.</note> 
+               <hi>E</hi> to bleſſe with the word of God, and to curſſe with the worde of God. For otherwiſe, Englande and o<g ref="char:EOLhyphen"/>ther Countries will not paſſe a ſtraw for his Bleſſing, either els for his Curſſyng.</p>
+            <p>The Popes champion brin<g ref="char:EOLhyphen"/>geth vs in wordes, the Popes Curſſyng. But we can and wyll ſhew him in actes and deedes, God his bleſſynge.</p>
+            <p>
+               <note n="*" place="margin">The Pope with his cha<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>pian may be thought wil<g ref="char:EOLhyphen"/>fully to lacke memorie.</note> The Popes Champion,
+<pb facs="tcp:152104:3"/>
+               <!-- PDF PAGE 140 -->
+with his maiſter, wilfully for<g ref="char:EOLhyphen"/>getteth how that of late yeres in y<hi rend="sup">e</hi> raygne of Queene Mary, his Maiſter ſent in words in<g ref="char:EOLhyphen"/>to England, his Bleſſynge.</p>
+            <p>And how that (notwithſtan<g ref="char:EOLhyphen"/>ding) it plainly appereth that Englande founde cleane con<g ref="char:EOLhyphen"/>trarie in Actes and deedes God his Curſſing. For where almighte <hi>GOD</hi> threatned in his worde, that for the wic<g ref="char:EOLhyphen"/>kednes of the people, he wold ſende a foren Prince to raigne ouer them:<note place="margin">E 2. Blovv.</note>
+            </p>
+            <p>
+               <hi>E</hi> And had not the ſubiects of England, in the ſame time a foren Prince raignyng ouer them, accordyng to the thret<g ref="char:EOLhyphen"/>nyng: notwithſtandinge the Pope his maſters Bleſſyng?</p>
+            <p>Againe, God thretned alſo in <hi>AMOS</hi> the Prophet, that
+<pb facs="tcp:152104:3"/>
+               <!-- PDF PAGE 140 -->
+for the ſynnes of the Princes and People, he woulde take a<g ref="char:EOLhyphen"/>way from the<g ref="char:cmbAbbrStroke">̄</g> his holy worde.<note place="margin">
+                  <hi>E 3. Blovv.</hi> O ye papiſts remember <hi>Nightingale,</hi> the Parſon of Crondel in Kent, who fell downe dead out of the Pulpet as he was co<g ref="char:cmbAbbrStroke">̄</g>mendinge to the people the Popes Bleſſyng.</note>
+            </p>
+            <p>
+               <hi>E</hi> And was not the Byble then burned in Englande ac<g ref="char:EOLhyphen"/>cordyng to the thretnynge.</p>
+            <p>* And his maiſters Cere<g ref="char:EOLhyphen"/>monies, beynge Coddes and Draffe placed, notwithſtan<g ref="char:EOLhyphen"/>dyng the Pope his Maiſters Bleſſynge?</p>
+            <p>Agayne, <hi>GOD</hi> thretned al<g ref="char:EOLhyphen"/>ſo in his holy worde, that for the ſynnes of the People, he would ſende Famine &amp; Derth of Materiall Breade.<note place="margin">E 4. Blovv.</note> 
+               <hi>E</hi> And was there not accordynge to the thretnynge ſuche a Famin and Derth of <hi>Materiall Breade,</hi> that the Subiectes of Eng<g ref="char:EOLhyphen"/>land were forced to make their Breade of Acornes, of whiche many died, notwithſtandinge
+<pb facs="tcp:152104:4"/>
+               <!-- PDF PAGE 141 -->
+y<hi rend="sup">e</hi> Pope his maiſters bleſſing?<note place="margin">E 5. and. 6. blovv.</note>
+            </p>
+            <p>Theſe and many other pla<g ref="char:EOLhyphen"/>gues of <hi>E</hi> warre in which <hi>Calis</hi> was loſt, and of ſickeneſſe. &amp;c. Had Englande at that time, with his Maiſters bleſſynge.</p>
+            <p>But euer from that time his maiſters bleſſing was turned to curſyng.<note place="margin">E 7. Blovv.</note>
+            </p>
+            <p>
+               <hi>E</hi> Haue wee not had a moſt gratious Engliſh born prince bleſſed be <hi>GOD</hi> this .xii. yeres raygnyng ouer vs, and ſo wee hope lo<g ref="char:cmbAbbrStroke">̄</g>ge time<note n="e" place="margin">Foles make but a ſporte of ſinne. But O England if thou deſire the long lyfe of our moſt gratious Queene ſhe from ſin and procede one neighbor to do good to another.</note> (if our ſinnes let it not) ſhal continew, wher <hi>Queene Mary</hi> raygned not .vi. yeres, notwithſtandinge the Pope his maiſters bleſſynge?</p>
+            <p>And againe, euer from that time his Maiſters bleſſynge was turned into curſſynge.</p>
+            <p>
+               <note place="margin">E 8. Blovv.</note>
+               <hi>E</hi> Haue wee not had greate plentie of Corne, and in thoſe
+<pb facs="tcp:152104:4"/>
+               <!-- PDF PAGE 141 -->
+Cities moſte plentie, where thoſe ſtrau<g ref="char:cmbAbbrStroke">̄</g>gers remayne, that be vnder the Pope his may<g ref="char:EOLhyphen"/>ſters Curſſe? Agayne, require the Popes Champion to<note n="*" place="margin">And tel the Popes Cha<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>pion conſider what benefit, Northu<g ref="char:cmbAbbrStroke">̄</g>ber<g ref="char:EOLhyphen"/>land. and Weſtmerla<g ref="char:cmbAbbrStroke">̄</g>d with the nor<g ref="char:EOLhyphen"/>thern Rebels receiued with the Popes bleſſyng, and then geue ſente<g ref="char:cmbAbbrStroke">̄</g>ce whe<g ref="char:EOLhyphen"/>ther is better the Popes Bleſſyng, or the Popes Curſing.</note> co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſyder how the Queenes ma<g ref="char:EOLhyphen"/>ieſtie, our Soueraigne Lady, had and hath the Pope his Maiſters Curſſe: But Kynge Henry of Fraunce with his Children, had and hath, the Pope his maiſters bleſſynge.</p>
+            <p>
+               <hi>E</hi> Let him conſyder bothe ſtates, &amp; then ſet vp another <hi>Bull,</hi>
+               <note place="margin">E 9. Blovv.</note> and declare in the <hi>Bull</hi> by the actes &amp; deedes, who hath in actes and deedes God his bleſſyng, &amp; who hath in actes and deedes the Curſſe of God and he ſhall finde that truly fulfilled in the holy Scripture vpon the Pope his Maiſter, written in the .2. <hi>Ca.</hi> of <hi>Malachi</hi>
+               <pb facs="tcp:152104:5"/>
+               <!-- PDF PAGE 142 -->
+the Prophet.<note place="margin">E The. 10. dead blovv</note> 
+               <hi>E I vvyl euen ſende a Curſſe vpon you, and vvill curſſe your bleſſynges.</hi> The Queenes Maieſtie oure Soueraygne, Lady hath the Popes curſe, and the King of Spaine hath y<hi rend="sup">e</hi> Pope his maiſters bleſſing.<note place="margin">E 11. Blovv.</note>
+            </p>
+            <p>
+               <hi>E</hi> Let him conſyder bothe ſtates and then ſet vp another <hi>Bull</hi> and declare in the <hi>Bull</hi> by the actes &amp; deedes, who hath in actes and deedes God his bleſſing and who hath in acts and deedes God his curſe, and he ſhall fynde the woordes of the Prophet <hi>Malachi</hi> moſt tru<g ref="char:EOLhyphen"/>ly fulfilled vpon the Pope his maiſter. The Queenes ma<g ref="char:EOLhyphen"/>ieſty our Soureaigne Ladye hath the Popes curſe, and the Queene of Scottes hath the Pope his mayſters bleſſynge.</p>
+            <p>
+               <note place="margin">12. Blovv.</note>
+               <hi>E</hi> Let him conſyder bothe
+<pb facs="tcp:152104:5"/>
+               <!-- PDF PAGE 142 -->
+ſtates and then ſet vp another <hi>Bull,</hi> and declare in the <hi>Bull, &amp;c.</hi> &amp; he ſhal fynde the wordes of the Prophet <hi>Malachi</hi> moſt tru<g ref="char:EOLhyphen"/>ly fulfilled vpon the Pope his maiſter. The Queenes Ma<g ref="char:EOLhyphen"/>ieſtie, our Soueraigne Ladie hath the Popes curſe, and the the Pope bleſſeth him ſelfe.<note place="margin">
+                  <p>
+                     <hi>E</hi> 13. <hi>Blovv.</hi>
+                  </p>
+                  <p>To this .xiii. blow might be put many other, as Smith a ge<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>tilman of the Temple, who for refuſinge the Popes curſe, and ta<g ref="char:EOLhyphen"/>kyng the Popes bleſ<g ref="char:EOLhyphen"/>ſed Agnus dei, hanged himſelf, with many other which for te<g ref="char:EOLhyphen"/>diouſneſſe is to be paſſed ouer.</p>
+                  <p>To keep an odde num<g ref="char:EOLhyphen"/>ber in the which the Pa<g ref="char:EOLunhyphen"/>piſtes take a great miſtery to be hidden and therfore I keep their order, becauſe they ſhould the better vew this Meſſage in whiche Meſſage thei may ſee wee haue greater cauſe to feare the hauinge of his bleſ<g ref="char:EOLhyphen"/>ſynge, then there is any cauſe geuen to feare the hauing of his curſyng.</p>
+               </note>
+            </p>
+            <p>
+               <hi>E</hi> Let him conſider bothe ſtates and then ſet vp another <hi>Bull</hi> and declare in the <hi>Bull.</hi> &amp;c. and he ſhall find the words of the Prophet <hi>Malachi</hi> moſt tru<g ref="char:EOLhyphen"/>ly fulfilled vpon the Pope his maiſter, wherefore Englande with other countreyes which taketh bleſſing of the word of God, is truly bleſſed. And o<g ref="char:EOLhyphen"/>ther Countreys whiche take their bleſſing from the Pope, is truly curſed with the Pope him ſelf, and therfore we haue
+<pb facs="tcp:152104:6"/>
+               <!-- PDF PAGE 143 -->
+cauſe to deſire of God to kepe vs farre from the Popes bleſ<g ref="char:EOLhyphen"/>ſing, of whoſe bleſſing hauing had to muche experience, wee finde ſuche pitifull ſhedinge of Engliſh bloode, that his mur<g ref="char:EOLhyphen"/>thering fiers deſtroyed .xiii. in one fier, and ſtayed not, but proceded to the mother and to the louing Infant in the mo<g ref="char:EOLhyphen"/>thers wombe: wherfore oure harty deſire vnto God, ſhalbe y<hi rend="sup">t</hi> we may haue ſtill the Popes curſing vntill he become obe<g ref="char:EOLhyphen"/>dient to the word of God, and bleſſe with the worde of God, and curſe with the worde of God. Alſo require him to let his maſter further vnderſtand that the Princes and people knowe it is y<hi rend="sup">e</hi> nature of a <hi>Bull</hi> to beget a <hi>Calf,</hi> and the nature of the <hi>Calfe,</hi> to feare the <hi>Bul:</hi> and
+<pb facs="tcp:152104:6"/>
+               <!-- PDF PAGE 143 -->
+therfore all thoſe that be the Popes <hi>Calues,</hi> let them feare the Popes <hi>Bull,</hi> for thoſe that be no <hi>Calues</hi> feare it not, but will do him to geue know<g ref="char:EOLhyphen"/>ledge to the Pope and to his clergie, that they<note n="*" place="margin">Take a<g ref="char:EOLhyphen"/>way the ma<g ref="char:EOLhyphen"/>teriall ſword from the Popes reli<g ref="char:EOLhyphen"/>gion &amp; from Mahometes religion to kil other on<g ref="char:EOLhyphen"/>ly for religio<g ref="char:cmbAbbrStroke">̄</g> and bothe their religio<g ref="char:cmbAbbrStroke">̄</g>s will faule. But contra<g ref="char:EOLhyphen"/>rie of the re<g ref="char:EOLhyphen"/>ligion of Ie<g ref="char:EOLhyphen"/>ſus Chriſte mencioned in his worde.</note> neither can not, nor dare not confute, and aunſwer this <hi>Lay mans Legacie,</hi> ioygned to this <hi>Meſſage,</hi> ter<g ref="char:EOLhyphen"/>med, &amp;c. and ſuffer it to go a<g ref="char:EOLhyphen"/>brode in Rome &amp; other places, where the Popes <hi>Bul</hi> hath be<g ref="char:EOLhyphen"/>gotten <hi>Calues.</hi> And thus y<hi rend="sup">e</hi> 
+               <hi>Bull</hi> beyng truly anſwered, he may againe ſecretly conuey it, &amp; tel his maiſter y<hi rend="sup">e</hi> Pope, that this anſwer requireth ſecret kee<g ref="char:EOLhyphen"/>pinge, for the more this Aun<g ref="char:EOLhyphen"/>ſwer is manifeſted in Rome, in Fraunce &amp;c. the more ſhame will it be for his Maiſter the Pope, to ride on foure mens
+<pb facs="tcp:152104:7"/>
+               <!-- PDF PAGE 144 -->
+ſhoulders, and to make Em<g ref="char:EOLhyphen"/>perours and Kinges, with the people, to kiſſe his ſhowes, &amp; with impudent lying make the Princes and people to be<g ref="char:EOLhyphen"/>leeue their ſinnes be forgeuen with kiſſyng his ſhow,<note place="margin">This lye &amp; the lye of the Angel that appeared in the battell in Ireland with a Cha<g ref="char:EOLhyphen"/>lice in his hand whiche was prea<g ref="char:EOLhyphen"/>ched printed, and Bels rong for it &amp;c in Spayne, is good ware to keepe vp their Pope to ride on foure mens ſhoulders.</note> which thynge he neuer learned of Chriſt Ieſus, by commaunde<g ref="char:EOLhyphen"/>ment nor by example, neyther of S. Paule nor of S. Peter nor of any other true Prophet eyther by commaundement or by example, wherfore let him leaue of his pride and liyng for in time he ſhalbe forced to doo it, and for that his Champion ſet vp the <hi>Bull</hi> ſecretly without ſhewing his name, ſo here he may receiue his Anſwere, like wiſe without any name, and for a concluſyon I pray God graunte him and his mayſter
+<pb facs="tcp:152104:7"/>
+               <!-- PDF PAGE 144 -->
+obedyent hearts to the worde of God, otherwiſe I pray god ſend them vtter confuſion.</p>
+            <p>Amen.</p>
+            <div type="part">
+               <head>¶Of the Deuill and the Popes manhood.</head>
+               <l>Mighty to make other men loſe their goods.</l>
+               <l>Mighty to hurt many other mens bodies,</l>
+               <l>To do good to a mans ovvne body,</l>
+               <l>Ys the Deuell and the Popes manhood:</l>
+            </div>
+            <div type="part">
+               <head>¶Of true Chriſtian manhood.</head>
+               <l>Mighty to ſuffer loſſe of a mans ovvne goods</l>
+               <l>Mighty to ſuffer hurte in a mans ovvn body</l>
+               <l>To do good vnto many,</l>
+               <l>Ys like to the Manhood of Chriſt Ieſus,</l>
+            </div>
+            <epigraph>
+               <bibl>Eſay. 40. Chapiter.</bibl>
+               <q>
+                  <q>The vvord of GOD endureth for euer,</q> But the Popes Bull was not
+<pb facs="tcp:152104:8"/>
+                  <!-- PDF PAGE 145 -->
+from the beginninge, neither ſhall endure for euer. Amen.</q>
+            </epigraph>
+            <epigraph>
+               <bibl>18. Deutronomie. 22. verſe.</bibl>
+               <q>
+                  <p>
+                     <note place="margin">The Popes Bull is like to an olde wiues tale which hath voyce with<g ref="char:EOLhyphen"/>out action But only that it hath contrarie ac<g ref="char:EOLhyphen"/>tions, as in the. 13 blows at his Bull.</note>When a Prophet ſpeaketh in the name of the Lord, if the thing folow not nor come to paſſe, that is the thing which the Lord hath not ſpo<g ref="char:EOLhyphen"/>ken, but the Prophet hath ſpoken it preſumpteouſly, thou ſhalt not ther<g ref="char:EOLhyphen"/>fore be afraid of him.</p>
+                  <p>He that yeldeth feare &amp; obedience to the Popes <hi>Bull,</hi> &amp;c. before the feare and obedience dewe to the worde of God, maketh fleſhe hys arme, and is trewly curſed by the wordes of the Prophet <hi>Iheremy</hi> in the .17. Cha. 5. vearſe who pronoun<g ref="char:EOLhyphen"/>ceth a true curſe in theſe words.</p>
+                  <p>Curſed be the man that truſteth in man &amp; maketh fleſh his arme, and withdraweth his hearte from the Lorde. Amen.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:152104:8"/>
+            <!-- PDF PAGE 145 -->
+            <p>Imprinted at London, by William How: for <hi>Iohn Arenolde, and are there to</hi> be ſolde at the Northe doore of Paules Churche.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
